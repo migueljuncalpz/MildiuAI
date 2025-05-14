@@ -1,0 +1,2 @@
+# MildiuAI
+mildiu diseasse detection 
